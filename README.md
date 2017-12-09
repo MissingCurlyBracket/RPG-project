@@ -7,8 +7,8 @@ Game application will be uploaded once i deem it playable.
 
 ## Controls:
 
-* Click somewhere on the ground to move to tht location.
-* Right-click on an object to interact with it.
+* Click somewhere on the ground to move to that location.
+* Right-click on an object/NPC to interact with it.
 * Right-click on items to pick them up.
 * Pres 'i' to open the inventory.
 * Whilst in inventory, click on the items to equip/use them.
