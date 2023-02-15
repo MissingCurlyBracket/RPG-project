@@ -2,7 +2,7 @@
 
 This is a project that i made for the IB programme CAS and to improve my C# abilities.
 This only includes the scripts and the character models.
-Game application will be uploaded once i deem it playable.
+Game application will be uploaded once I deem it playable.
 
 
 ## Controls:
